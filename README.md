@@ -1,20 +1,31 @@
-#_Word Counter_
-#_By Brian Palowski_
+# Word Counter
+### By Brian Palowski
 
-*This console app will allow a user to enter a word and search how frequently said word appears in a given string. 06.29.18
+This console app will allow a user to enter a letter and a word. The application will output a response. 
+### Description
+```
+  User will input a letter.
+  User then will be asked to input a word.
+  The console app will they generate a number of how many times that specific letter was in the word.
+```
+### Set Up
+```
+(Before trying to use/open this app make sure you have the proper setup to your system in place)
+Clone from GitHub Repository (https://github.com/bpalowski/Word-Counter)
+Copy and paste to a text editor(Terminal)
+Navigate using terminal with cd and name of the folder (Word-Counter)
+Navigate to the file (wordcounter.cs)
+To use the Word-Counter App open it up with mcs wordcounter.cs && mono wordcounter.exe
+Enjoy!!!
+```
 
-Description
-Program will ask user to enter a word | Input: hello; Output: your word is hello | Program will recognize this word if entered by itself | Input: hello; Output: We found your word "1" time | Program will recognize how many times given word is used in a string | Input: hello, bob. hello, bill; Output We found your word "2 times"
+### Support and contact details
+For any questions please contact:
+Brian@inmotiondelivery.com
 
-Setup/Installation Requirements
-Clone from GitHub
-Copy and paste from a text editor
-Open Html
-Support and contact details
-For any questions please contact Brian@inmotiondelivery.com
 
 Technologies Used
-C#, Atom, Mono, Apple Terminal
+C#, Atom, Mono, Terminal
 
 License
 Licensed under MIT
