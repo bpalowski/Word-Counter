@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/RepeatCounter.Solution/RepeatCounter/bin/Debug/netcoreapp1.1/RepeatCounter.deps.json
+/Users/Guest/Desktop/RepeatCounter.Solution/RepeatCounter/bin/Debug/netcoreapp1.1/RepeatCounter.dll
+/Users/Guest/Desktop/RepeatCounter.Solution/RepeatCounter/bin/Debug/netcoreapp1.1/RepeatCounter.pdb
+/Users/Guest/Desktop/RepeatCounter.Solution/RepeatCounter/obj/Debug/netcoreapp1.1/RepeatCounter.AssemblyInfo.cs
+/Users/Guest/Desktop/RepeatCounter.Solution/RepeatCounter/obj/Debug/netcoreapp1.1/RepeatCounter.dll
+/Users/Guest/Desktop/RepeatCounter.Solution/RepeatCounter/obj/Debug/netcoreapp1.1/RepeatCounter.pdb
