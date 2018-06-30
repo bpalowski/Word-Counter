@@ -31,10 +31,10 @@ namespace CountingWords
       {
       try
       {
-        string[] stringArray=_newWord.Split(' ');
-        for(int i=0; i<stringArray.Length; i++)
+        string[] arr=_newWord.Split(' ');
+        for(int x=0; x<arr.Length; x++)
         {
-          if(_word.ToLower() == stringArray[i].ToLower())
+          if(_word.ToLower() == arr[x].ToLower())
           {
             _total++;
           }
